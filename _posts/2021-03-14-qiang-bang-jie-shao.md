@@ -9,8 +9,15 @@ image: "assets/images/photo1.jpeg"
 
 ![pic2](https://tva1.sinaimg.cn/large/e6c9d24ely1gojp3b3e7dj20m80tnq4b.jpg)
 
+根据百度百科，棒球，又称野球，为一种团体球类运动，由人数最少为9人的两支队伍在一个扇形的球场进行攻击与守备。
+而这项运动，也总会让人联想到“球迷喝彩”、“湿透的运动服”、“肢体冲突”、“大大小小的伤口”等。
 
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojq5501ddj20m80go0x3.jpg)
 
+当“棒球⚾️”出现在一群中国少女的生活中时，这项运动已经开始被赋予了新的意义。
+这群少女正是我们的“强棒天使”们。与其他千千万万青少年一般，她们有着最灿烂的笑容和对未来最诚挚的期盼。
+
+![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojq93rlb7j20ku0fnwxc.jpg)
 
 # ⚾️ [强棒](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363)介绍
 
@@ -24,6 +31,6 @@ image: "assets/images/photo1.jpeg"
 
 *** 
 
-如果你想了解更多信息：
+
 ##### 公众号：强棒天使队
 ##### 官方微博：[强棒天使](https://weibo.com/PBangels)
