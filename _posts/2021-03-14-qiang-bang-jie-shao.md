@@ -4,11 +4,11 @@ subtitle: "欢迎关注我们公众号：强棒天使队
            官方微博：强棒天使"
 author: "Janie"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/001.jpg"
+image: "assets/images/photo1.jpg"
 ---
 
 
-# ⚾️ ![强棒](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363)介绍
+# ⚾️ [强棒](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363)介绍
 > 强棒基地由前国家棒球队队长孙岭峰与爱心人士联合筹资建设，创建中国第一支**公益棒球队**。基地主要资助对象为全国范围内7-10岁困境儿童，通过专业的棒球技能获得职业发展方向和未来的就业机会。
 > 
 > 截止到2020年11月，项目共资助困境儿童80名，其中女孩26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
