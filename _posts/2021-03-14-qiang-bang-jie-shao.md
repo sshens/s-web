@@ -1,11 +1,16 @@
 ---
-title:  "强棒天使"
-subtitle: "欢迎关注我们公众号：强棒天使队
-           官方微博：强棒天使"
+title:  "走进“强棒天使”"
+subtitle: "了解“强棒天使”背后的故事"
 author: "Janie"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/photo1.jpg"
 ---
+公众号：**强棒天使队**
+
+官方微博：**[强棒天使](https://weibo.com/PBangels)**
+***
+
+(![pic2](https://tva1.sinaimg.cn/large/e6c9d24ely1gojp3b3e7dj20m80tnq4b.jpg)
 
 
 # ⚾️ [强棒](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363)介绍
@@ -13,3 +18,5 @@ image: "assets/images/photo1.jpg"
 > 
 > 截止到2020年11月，项目共资助困境儿童80名，其中女孩26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
 2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
+
+
