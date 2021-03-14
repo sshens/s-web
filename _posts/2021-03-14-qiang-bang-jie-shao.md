@@ -6,9 +6,6 @@ avatar: "assets/images/s.jpeg"
 image: "assets/images/photo1.jpeg"
 ---
 
-##### 公众号：强棒天使队
-##### 官方微博：[强棒天使](https://weibo.com/PBangels)
-
 
 ![pic2](https://tva1.sinaimg.cn/large/e6c9d24ely1gojp3b3e7dj20m80tnq4b.jpg)
 
@@ -21,4 +18,8 @@ image: "assets/images/photo1.jpeg"
 >### 截止到2020年11月，项目共资助困境儿童80名，其中女孩26名，多数儿童来自四川大凉山彝族自治州。通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。
 >### 2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
 
+*** 
 
+如果你想了解更多信息：
+##### 公众号：强棒天使队
+##### 官方微博：[强棒天使](https://weibo.com/PBangels)
