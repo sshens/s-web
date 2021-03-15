@@ -8,7 +8,7 @@ image: "assets/images/photo3.jpeg"
 
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gokg53o0e1j20ku0rt7bd.jpg)
 
-    棒球是一种集体性、对抗性很强的球类运动项目。
+    <p style="color:red;">棒球</p>是一种集体性、对抗性很强的球类运动项目。
     它在国际上开展较为广泛，影响较大，被誉为“竞技与智慧的结合”。
     但是在国内普及程度可能没有国外那么高，大众对棒球的认识也较浅。
     大家大多也是在影视剧、体育赛事上了解相关信息。
