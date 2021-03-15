@@ -32,7 +32,7 @@ image: "assets/images/photo1.jpeg"
  
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojq93rlb7j20ku0fnwxc.jpg)
 
-# ⚾️ <p style="color:dark blue;">强棒介绍</p>
+# ⚾️  [“强棒” 介绍](https://weibo.com/PBangels?refer_flag=1005055013_&is_all=1#_loginLayer_1615802321409)
 
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojppnd7vij219p0u0jzd.jpg)
 
