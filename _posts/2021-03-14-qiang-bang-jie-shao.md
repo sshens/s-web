@@ -6,6 +6,7 @@ avatar: "assets/images/s.jpeg"
 image: "assets/images/photo1.jpeg"
 ---
 
+
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gokqx31gdzj20ht09lmxw.jpg)
    
 >> （马虎）“大家好，我叫马虎，来自十字路口。走丢了，然后就被棒球爱心基地捡到了。”
@@ -31,7 +32,7 @@ image: "assets/images/photo1.jpeg"
  
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojq93rlb7j20ku0fnwxc.jpg)
 
-# ⚾️ [强棒](https://baike.baidu.com/item/%E5%BC%BA%E6%A3%92%E5%A4%A9%E4%BD%BF%E9%A1%B9%E7%9B%AE/53242363)介绍
+# ⚾️ <p class="demo">强棒介绍</p>
 
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojppnd7vij219p0u0jzd.jpg)
 
