@@ -1,6 +1,6 @@
 ---
 title:  "⚾️棒球知多少"
-subtitle: "棒球之前世今生"
+subtitle: "A Brief Introduction to Baseball"
 author: "Janie"
 avatar: "assets/images/s.jpeg"
 image: "assets/images/photo3.jpeg"
@@ -17,6 +17,7 @@ image: "assets/images/photo3.jpeg"
     **关于装备**——在防守的时候，所有球员会穿上手套。同样地，进攻的时候会使用球棒击球。但是最初的棒球比赛，是不用手套的，后来因为随着发展，球员才会使用手套。在正式的比赛中一垒手和捕手所用的手套有所不同，因为要迁就球的来势。具体装备如下：
     
 * 帽子（Cap）
+* 棒球（baseball）：初学者和少年用软式棒球，安全又不伤肩膀。入门和成人用实心棒球。
 * 打击用头盔（Batting Helmet）：分单侧防护和双侧防护两种，还有带面具的
 * 速干衣(Sleeve Compression Shirt)
 * 比赛用球衣（Jersey
@@ -30,13 +31,13 @@ image: "assets/images/photo3.jpeg"
 * 护具（Gear）：如护膝护肘护脚踝等等用具
 * 护腕（Wristbands）
 * 捕手护具（catcher kit）
-* 棒球（baseball）：初学者和少年用软式棒球，安全又不伤肩膀。入门和成人用实心棒球。
+
     
       
 * ### HOW?
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1goknnfct3kj20m80etmym.jpg)
-#### 那么这项运动究竟是如何运作呢？ 
-#### 参照维基百科的解释：
+##### 那么这项运动究竟是如何运作呢？ 
+##### 参照维基百科的解释：
 > #### 棒球球员分为攻、守两方，攻方球员利用球棒将守方投掷的球击出，随后沿着四个垒位进行跑垒，当成功跑一圈回到本垒就可得1分; 
 > #### 而守方则利用手套将攻方击出的球接住或掷回将攻方球员打出局。
 > 
@@ -66,7 +67,7 @@ image: "assets/images/photo3.jpeg"
 * ### WHO?
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gokg57gzrnj20m80xcdix.jpg)
 
-    | 守队队员｜防守位置| 职责｜
+    | 守队队员 | 防守位置 | 职责 |
     | :---: | :---: | :---: |
     | 投手 | 投手区 |负责投球，一般是场上最耀眼的那颗星 |
     | 捕手 | 本垒区 |全副武装蹲在本垒后面，负责接住投手投来的球以及打者打到本垒附近的球 |
@@ -84,6 +85,7 @@ image: "assets/images/photo3.jpeg"
     亲爱的朋友们，你们是不是已经对⚾️有了一定的了解，并且开始跃跃欲试了呢？
     
     温馨的小提醒：你需要——球、手套、球棒、护具、操场上的几个垒包，以及一群志同道合的小伙伴！
+    
     
 ***
 
