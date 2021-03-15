@@ -32,7 +32,7 @@ image: "assets/images/photo1.jpeg"
  
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojq93rlb7j20ku0fnwxc.jpg)
 
-# ⚾️ <p class="demo">强棒介绍</p>
+# ⚾️ <p style="color:dark blue;">强棒介绍</p>
 
    ![](https://tva1.sinaimg.cn/large/e6c9d24ely1gojppnd7vij219p0u0jzd.jpg)
 
