@@ -13,7 +13,7 @@ image: "assets/images/photo3.jpeg"
     但是在国内普及程度可能没有国外那么高，大众对棒球的认识也较浅。
     大家大多也是在影视剧、体育赛事上了解相关信息。
     
-      
+<p style="color:red;">棒球</p>
 
 
 * ### WHAT? 
