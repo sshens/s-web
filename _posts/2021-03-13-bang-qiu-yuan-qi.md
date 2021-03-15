@@ -30,13 +30,13 @@ image: "assets/images/photo3.jpeg"
 * 比赛用球衣（Jersey）
 * 棒球手套（Baseball glove）
 * 打击手套（Battinggloves）
-* 球裤（Pant）
+* 球裤（Pants）
 * 球袜（Stirrup Socks）
 * 球鞋（PlayerTrainershoes）：分比赛鞋和训练鞋
 * 球棒（Bat）
 * 护具（Gear）：如护膝护肘护脚踝等等用具
 * 护腕（Wristbands）
-* 捕手护具（catcher kit）
+* 捕手护具（Catcher kit）
 * ### HOW?
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1goknnfct3kj20m80etmym.jpg)
 
